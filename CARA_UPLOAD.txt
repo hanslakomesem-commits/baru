@@ -1,0 +1,15 @@
+ZAIN.NET V3 - CARA UPLOAD LANGSUNG KE GITHUB PAGES
+
+1. Extract ZIP ini.
+2. Buka repository GitHub Anda.
+3. Pastikan berada di halaman ROOT repository, bukan di dalam folder lain.
+4. Add file > Upload files.
+5. Upload SEMUA file di folder hasil extract.
+6. Commit changes.
+7. Settings > Pages.
+8. Source: Deploy from a branch.
+9. Branch: main.
+10. Folder: /(root).
+11. Save dan tunggu deployment selesai.
+
+PENTING: index.html harus terlihat langsung di halaman utama repository.
